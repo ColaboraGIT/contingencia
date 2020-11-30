@@ -9,6 +9,7 @@
 [Acceso a las instalaciones y recorridos internos.]
 
  
+Estoy añadiendo un nuevo cambio para probar los conflictos
 
 [Los accesos al centro se realizarán de forma ordenada respetando en la
 medida de lo posible la distancia de 1,5 m y siendo obligatorio, ante
