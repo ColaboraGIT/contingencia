@@ -14,7 +14,7 @@
 
 [Fecha de elaboración del plan:]
 
-[29/06/2020]{.span12}
+[30/11/2020]{.span12}
 
  
 
