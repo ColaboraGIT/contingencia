@@ -14,11 +14,11 @@
 
 [Fecha de elaboración del plan:]
 
-[30/11/2020]{.span12}
+[30/11/2020]
 
  
 
 [La dirección del centro podrá designar personas responsables para
-tareas concretas de implementación del Plan.]{.span3}
+tareas concretas de implementación del Plan.]
 
  
