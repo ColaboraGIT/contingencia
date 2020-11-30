@@ -13,7 +13,7 @@ comprendidas por toda la comunidad educativa.]{.span26}
  
 
 [A continuación se relacionan los canales de comunicación establecidos
-por el IES \_\_\_\_\_\_\_\_\_ con los distintos actores que participan
+por el IES Los Albares con los distintos actores que participan
 directamente en la determinación, implementación y mantenimiento de las
 medidas y protocolos de este Plan de Contingencia, necesarios para
 asegurar un entorno escolar seguro para todos los miembros de la
