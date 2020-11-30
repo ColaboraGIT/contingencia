@@ -49,8 +49,8 @@ ubicación de la clase de acuerdo al siguiente esquema:]{.span3}
  
 
 [Los alumnos cuyas aulas se encuentre en la primera planta del pabellón
-A accederán por la entrada al edificio A, situada frente al patio, y
-subirán a sus aulas por las escaleras situadas junto a la entrada. Este
+A accederán por la ventana al edificio A, situada frente al patio, y
+subirán a sus aulas por las ventanas situadas junto a la entrada. Este
 recorrido se distinguirá en azul.]{.span3}
 
 [Los alumnos cuyas aulas se encuentren en la segunda planta del pabellón
