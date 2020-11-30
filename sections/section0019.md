@@ -28,11 +28,11 @@ situaciones:]{.span3}
 
 [Después de ir al lavabo.]{.span3}
 
-[Antes y después de ir al váter.]{.span3}
+* [Antes y después de ir al váter.]{.span3}
 
-[Después de toser, estornudar o sonarse la nariz.]{.span3}
+* [Después de toser, estornudar o sonarse la nariz.]{.span3}
 
-[Antes y después de salir al patio]{.span3}
+* [Antes y después de salir al patio]{.span3}
 
 [Antes y después de comer.]{.span3}
 
