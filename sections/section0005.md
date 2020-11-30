@@ -1,6 +1,9 @@
 ## AMBITO DE APLICACIÓN
 
 Soy Celso.
+Esto es una modificación gestionado con kraken.
+
+
 Hola, estoy modifcando la sección 5 del plan de contingencia.
 Un saludo a todos
 
