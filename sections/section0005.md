@@ -1,6 +1,7 @@
 ## AMBITO DE APLICACIÓN
 
 Soy Celso.
+---------------------------------------
 Esto es una modificación gestionado con kraken.
 
 
